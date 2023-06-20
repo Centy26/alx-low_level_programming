@@ -3,7 +3,7 @@
 #include <stdio.h>
 /* more headers goes there */
 
-/* betty style doc for function main goes there */
+/*betty style dooc for function main goes there */
 /**
  * main - Entry point
  *
