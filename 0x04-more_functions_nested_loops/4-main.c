@@ -8,5 +8,5 @@
 void print_most_numbers(void)
 {
     print_most_numbers();
-    return (void);
+    return (0);
 }
