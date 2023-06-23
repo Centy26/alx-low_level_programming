@@ -8,13 +8,7 @@ int _isupper(int c);
 int _isdigit(int c);
 int main(void);
 int mul(int a, int b);
-/** Function declaration */
 void print_numbers(void);
-
-/**Function definition */
-void print_numbers(void) {
-    /**Function body */
-}
 
 
 #endif /* MAIN_H */
