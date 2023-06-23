@@ -9,6 +9,13 @@ int _isdigit(int c);
 int main(void);
 int mul(int a, int b);
 void print_numbers(void);
+// Function declaration
+void print_numbers(void);
+
+// Function definition
+void print_numbers(void) {
+    // Function body
+}
 
 
 #endif /* MAIN_H */
