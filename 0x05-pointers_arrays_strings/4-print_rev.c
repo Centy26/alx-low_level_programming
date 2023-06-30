@@ -2,7 +2,7 @@
 
 /**
  * print_rev - prints a string, in reverse
- * @str: input
+ * @s: input
  * Return:0.
  */
 void print_rev(char *s)
