@@ -5,6 +5,7 @@
  * including the terminating null byte (\0)
  * to the buffer pointed to by dest.
  * @src: input
+ * @dest: input
  * Return: 0.
  */
 char *_strcpy(char *dest, char *src)
