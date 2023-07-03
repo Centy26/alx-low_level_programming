@@ -21,7 +21,6 @@ unsigned int _strspn(char *s, char *accept)
             a++;
         }
         if (*a == '\0') {
-            // Character not found in accept, stop counting
             break;
         }
         s++;
