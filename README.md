@@ -1,1 +1,1 @@
-malloc and free functions
+singly linked lists
